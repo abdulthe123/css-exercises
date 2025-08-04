@@ -1,0 +1,20 @@
+.first,
+.third {
+    background-color: #d165ad;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+#cool {
+    background-color: #15db03;
+    font-weight: bold;
+    font-size: 24px;
+}
